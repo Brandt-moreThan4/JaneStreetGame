@@ -1,7 +1,7 @@
 # Jane Street Game
 
 ## Overview
-I was working on a blog post to examine SBF's interview question when applying to work as an intern at Jane Street. The code in this repo is my attempt at exploring and simulating several different strategies for playing the game.  
+I was working on a blog post to examine SBF's interview question when applying to work as an intern at Jane Street. The code in this repo is my attempt at exploring and simulating several different strategies for playing the game. I had to put this project aside awhile ago, but I intend to revisit it in the future to finish it (the bulk of the analysis is done, I just need to polish everything up.)
 
 Current Blog Post Notes:
 [Google Docs Link](https://docs.google.com/document/d/1-jL13oA_9DbNN5wjQv9gD5Z6zpA_lMM4TVtqJSkwEmY/edit?usp=sharing)
